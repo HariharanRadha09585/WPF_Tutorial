@@ -1,0 +1,6 @@
+D:\API Practice\HelloWorldRevitAPI\HelloWorldRevitAPI\bin\Debug\HelloWorldRevitAPI.dll
+D:\API Practice\HelloWorldRevitAPI\HelloWorldRevitAPI\bin\Debug\HelloWorldRevitAPI.pdb
+D:\API Practice\HelloWorldRevitAPI\HelloWorldRevitAPI\obj\Debug\HelloWorldRevitAPI.csproj.AssemblyReference.cache
+D:\API Practice\HelloWorldRevitAPI\HelloWorldRevitAPI\obj\Debug\HelloWorldRevitAPI.csproj.CoreCompileInputs.cache
+D:\API Practice\HelloWorldRevitAPI\HelloWorldRevitAPI\obj\Debug\HelloWorldRevitAPI.dll
+D:\API Practice\HelloWorldRevitAPI\HelloWorldRevitAPI\obj\Debug\HelloWorldRevitAPI.pdb
